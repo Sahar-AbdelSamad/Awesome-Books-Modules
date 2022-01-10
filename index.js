@@ -1,9 +1,9 @@
 import loadNav from './modules/nav.js';
-import x from './modules/library.js';
-import startTime from './modules/startTime.js'
+import Library from './modules/library.js';
+import startTime from './modules/startTime.js';
 
 loadNav();
-startTime()
+startTime();
 const addBtn = document.querySelector('.btn');
-addBtn.addEventListener('click', x.addNewBook);
-window.onload = x.onloadFunction();
+addBtn.addEventListener('click', Library.addNewBook);
+window.onload = Library.onloadFunction();
