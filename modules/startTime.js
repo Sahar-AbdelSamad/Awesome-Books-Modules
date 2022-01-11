@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 export default function startTime() {
   const localTime = luxon.DateTime.local();
   const timeNow = document.querySelector('.time');
