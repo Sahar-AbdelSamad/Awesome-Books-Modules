@@ -38,7 +38,14 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@marilirulita](https://github.com/marilirulita)
 - Twitter: [@marilirulita](https://twitter.com/marylirulita)
-- LinkedIn: [@marilirulita](https://www.linkedin.com/in/mar-y-sol-bautista-5a6894151/)
+- LinkedIn: [mar-y-sol-bautista](https://www.linkedin.com/in/mar-y-sol-bautista-5a6894151/)
+
+👤 **Giancarlo Dumani**
+
+- Github: [@gdumani](https://github.com/gdumani)
+- Twitter: [@gdumani1](https://twitter.com/gdumani1)
+- Linkedin: [giancarlo-dumani](https://www.linkedin.com/in/giancarlo-dumani-a7364a1a1/)
+
 
 ## 🤝 Contributing
 
