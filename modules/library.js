@@ -92,9 +92,6 @@ export default class Library {
          div.dataset.id = (i);
          const bookInfo = document.createElement('p');
          bookInfo.textContent = (`"${Library.book[i].title}" by ${Library.book[i].author}`);
-
-         console.log(data);
-
          bookInfo.className = ('bookInfo');
          div.appendChild(bookInfo);
          const removeButton = document.createElement('button');
@@ -110,13 +107,9 @@ export default class Library {
 
      static onloadFunction() {
        const empty = document.querySelector('.emptyCollection');
-       const data = JSON.parse(localStorage.getItem('list'));
-       console.log(data);
        if (data[0] !== undefined) {
          empty.style.display = ('none');
          Library.book = data;
-
-         console.log(Library.book);
          Library.init();
        } else {
          empty.style.display = ('flex');
