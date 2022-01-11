@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="index.css" rel="stylesheet">
+    <title>Awesome Books</title>
+</head>
+
+<body class="body">
+    <header class="header">
+        <h4 class="logo">Awesome Books</h4>
+        <ul class="nav">
+            <li><a class="list" href="#">List</a></li>
+            <li><a class="addBook" href="#">Add new</a></li>
+            <li><a class="contact" href="#">Contact</a></li>
+        </ul>
+    </header>
+    <div class="time"></div>
+
+    <section class="bookListSection">
+        <h1 class="pageTitle">Awesome Books</h1>
+        <div class="bookSection">
+            <div class="emptyCollection">Start your beautiful collection and add your first Book to the list</div>
+        </div>
+        </section>
+    <section class="bookCreation bookCreationSection">
+        <h2 class="pageTitle">Add a new book</h2>
+        <input class="title" type="text" name="Book Title" placeholder="Title" required><br>
+        <input class="author" type="text" name="Author" placeholder="Author" required><br>
+        <button class="btn button" type="submit">Add</button>
+        <p class="bookAdded success">Your book has been successfully added to the List</p>
+        <p class="bookExist success">The book already exists in the List</p>
+    </section>
+    <section class="contactSection contactSectionNav">
+        <h2 class="pageTitle">Contact information</h2>
+        <p>Do have any questions or you just want to say "Hello"?<br>You can reach out to us!</p>
+        <ul>
+            <li>Our e-mail: mail@mail.com</li>
+            <li>Our phone number: 0043586534422</li>
+            <li>Our address: Streetname 22, 84503 City, Country</li>
+        </ul>
+    </section>
+    <h5 class="empty"></h5>
+    <footer class="footerSection header">
+        <h5 class="footer">Copyright</h5>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/luxon@1.25.0/build/global/luxon.min.js"></script>
+    <script src="./index.js" type="module"></script>
+</body>
+
+</html>

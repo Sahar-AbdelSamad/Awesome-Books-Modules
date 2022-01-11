@@ -1,0 +1,26 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "full-icu": "^1.4.0",
+    "luxon": "^2.3.0",
+    "save": "^2.4.0",
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "@types/luxon": "^2.0.9",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.4",
+    "hint": "^6.1.9"
+  }
+}

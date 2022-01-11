@@ -1,76 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books
 
-> One paragraph statement about the project.
+> A web app to store books.
 
-![screenshot](./app_screenshot.png)
+The app allows you to add, store and remove books.
 
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+## Below is a GIF showing the app
+![gif](awesome-book.gif)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+You can see [the app live here](https://sahar-abdelsamad.github.io/Awesome-Books-Modules/)
 
+## Built With
+
+- HTML, CSS, JavaScript.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+ Clone the repository https://github.com/Sahar-AbdelSamad/Awesome-Books-Modules using `git clone`
+ 
+ Run `npm install`
 
 
+👤 **Sahar Abdel Samad**
 
-## Authors
+- GitHub: [@sahar-abdelsamad](https://github.com/Sahar-AbdelSamad)
+- Twitter: [@abdelsamadsahar](https://twitter.com/AbdelSamadSahar)
+- LinkedIn: [abdel-samad-sahar](https://www.linkedin.com/in/abdel-samad-sahar-353977223/)
 
-👤 **Author1**
+👤 **Mar Bautista**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@marilirulita](https://github.com/marilirulita)
+- Twitter: [@marilirulita](https://twitter.com/marylirulita)
+- LinkedIn: [mar-y-sol-bautista](https://www.linkedin.com/in/mar-y-sol-bautista-5a6894151/)
 
-👤 **Author2**
+👤 **Giancarlo Dumani**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@gdumani](https://github.com/gdumani)
+- Twitter: [@gdumani1](https://twitter.com/gdumani1)
+- Linkedin: [giancarlo-dumani](https://www.linkedin.com/in/giancarlo-dumani-a7364a1a1/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Sahar-AbdelSamad/Awesome-Books/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
