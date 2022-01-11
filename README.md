@@ -11,7 +11,7 @@ The app allows you to add, store and remove books.
 
 ## Live Demo
 
-You can see [the app live here](https://sahar-abdelsamad.github.io/Awesome-Books/)
+You can see [the app live here](https://sahar-abdelsamad.github.io/Awesome-Books-Modules/)
 
 ## Built With
 
