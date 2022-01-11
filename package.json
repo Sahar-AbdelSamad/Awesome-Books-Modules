@@ -12,6 +12,7 @@
   "dependencies": {
     "full-icu": "^1.4.0",
     "luxon": "^2.3.0",
+    "save": "^2.4.0",
     "three": "^0.136.0"
   },
   "devDependencies": {
