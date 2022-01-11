@@ -17,14 +17,16 @@ You can see [the app live here](https://sahar-abdelsamad.github.io/Awesome-Books
 
 - HTML, CSS, JavaScript.
 
+## Getting Started
 
-## To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
-### Usage
-- Clone the repository using Git, Github Desktop or a version control manager of your choice.
-- Open index.html with a web browser.
+### Setup
 
-## Authors
+ Clone the repository https://github.com/Sahar-AbdelSamad/Awesome-Books-Modules using `git clone`
+ 
+ Run `npm install`
+
 
 👤 **Sahar Abdel Samad**
 
